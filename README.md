@@ -24,7 +24,7 @@ Sigue los pasos a continuación para instalar y configurar el proyecto.
 Clona el repositorio a tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/laravel-ferreteria.git
+git clone https://github.com/Jeldar89/ferreteria-pacs
 cd laravel-ferreteria
 ```
 
@@ -109,7 +109,7 @@ npm run dev
 Para subir el servicio, ejecuta el siguiente comando:
 
 ```bash
-php artisan serve
+php artisan serve --port=9980
 ```
 
 ### 9. Acceder a la aplicación
